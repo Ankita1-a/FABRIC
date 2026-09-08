@@ -1,0 +1,17 @@
+{
+  "client_0": {
+    "rounds_selected": 34,
+    "epochs_trained": 34,
+    "selection_rate": "68.0%"
+  },
+  "client_1": {
+    "rounds_selected": 29,
+    "epochs_trained": 29,
+    "selection_rate": "58.0%"
+  },
+  "client_2": {
+    "rounds_selected": 37,
+    "epochs_trained": 37,
+    "selection_rate": "74.0%"
+  }
+}
